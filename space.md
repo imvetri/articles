@@ -49,3 +49,8 @@ Black hole has intense mass density, An atom also has intense mass density. when
 ### Lesson
 Stop wasting time in reading internet, build something. 
 Stop wasting time building something, run away from computer.
+
+### Another lesson
+I got downvoted again, I deleted the comment to preserve my karma :D here is the comment for future reference
+Screenshot 2021-05-21 at 10.39.01 AM![image](https://user-images.githubusercontent.com/6542274/119085186-e34b1300-ba20-11eb-9c44-41cfd8c26f40.png)
+
