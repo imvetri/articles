@@ -57,7 +57,7 @@ Senses vibration around it,
 Guesses and builds source of it,
 
 this is a blind man's world. How to make the blind man see? Truth - if you keep training the magic ball with all our world's space disturbance, it will eventually be able to predict the source of light, and it starts the blast - bing bang :D 🥇
-
+the magic ball is a blind man's in a computer. Along with sense of space, it can question munam, our answers will help it better train.
 
 
 
