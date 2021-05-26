@@ -29,6 +29,21 @@ Everyone goes with a finding that we are inside a simulator, so what? what will 
 
 I wanted to put an effort to figure out how to build one based on the world we live in.
 
+## motivation
+If you learn CSS, you can understand everything in css and build with CSS
+If you learn math, you can understand everything else in math
+.
+.
+.
+If you learn (magic), you can understand everything in magic and build it back.
+.
+.
+.
+.
+So take a learning medium and teach it something, next time it sees something, it will try to recreate it.
+
+so if you teach an AI to see colors, it can only create the world back in colors :D.
+
 
 ## References
 
@@ -40,6 +55,8 @@ Properties of magic item
 
 Senses vibration around it,
 Guesses and builds source of it,
+
+this is a blind man's world. How to make the blind man see? Truth - if you keep training the magic ball with all our world's space disturbance, it will eventually be able to predict the source of light, and it starts the blast - bing bang :D 🥇
 
 
 
