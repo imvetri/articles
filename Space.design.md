@@ -60,4 +60,6 @@ this is a blind man's world. How to make the blind man see? Truth - if you keep 
 the magic ball is a blind man's in a computer. Along with sense of space, it can question munam, our answers will help it better train.
 
 
+How to make a blind-from-birth-man imagine ? Imaginiation is seeing the world in your head. How to make a blind man see in his head ? Not possible.
+
 
